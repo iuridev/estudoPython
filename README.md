@@ -1,2 +1,2 @@
-# estudoPython
+# EstudoPython
 Projetos de estudo
